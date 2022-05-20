@@ -1,0 +1,37 @@
+*{
+    font-family:  'Montserrat', sans-serif;;
+}
+.navbar{
+    height:10vh;
+}
+.navbar .container a{
+    font-size: xx-large;
+    color: #DDE0E3;
+}
+.navbar .container a:hover{
+    color: white;
+    transition: all 0.3s ease;
+   
+}
+.main{
+    height: 90vh;
+    background-color: #DDE0E3;
+}
+.information div{
+    font-size: 25px;
+    font-weight: 900;
+    color: black;
+}
+.second .information{
+    padding-top: 7%;
+    margin-top: 6%;
+}
+.second .picture{
+  
+  margin-top:5% ;
+}
+.picture img{
+    width: 100%;
+}
+   
+   
